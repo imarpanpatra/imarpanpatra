@@ -2,26 +2,26 @@
 Hey there 
 <a href="#title"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" Title=":wave:" /></a> I'm Arpan
 <a href="#title"><img src="https://cdn.discordapp.com/emojis/832140762501480469.png" width="40" Title=":pepeHappy:" /></a></h1>
-<h3 align="center">A full-stack web developer.</h3>
+<h3 align="center">A full-stack software engineer.</h3>
 
 <div name="code" align="center">
 <a href="#code"><img src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif" alt="coding" Title="Codin in progress...." /></a>
 <br />
-<a href="#code"><img src="https://komarev.com/ghpvc/?username=Arpan738" alt="arpan" Title="Profile visit count" /></a></div>
+<a href="#code"><img src="https://komarev.com/ghpvc/?username=imarpanpatra" alt="arpan" Title="Profile visit count" /></a></div>
 
 ### Let's know about me!
-Hey there! I'm Arpan, your friendly neighborhood developer. A Web developer who also develops discord bots in his free time. I am still learning web development, and interested in working with AI projects. I love to code, and also have several hobbies and goals that I want to fulfill ✌️
+Hey there! I'm Arpan, a Full Stack Software Engineer passionate about building scalable web applications and exploring modern technologies. I've been developing for several years and enjoy solving real-world problems through code. I'm always learning, experimenting with new ideas, and sharing my journey as I continue to grow as an engineer.
 
-I'm not that active on social media but you will find me on discord and twitter, managing my community, or probably coding something interesting, or discussing with my friends 😛
+I'm not very active on social media, but you'll usually find me building something interesting, exploring new technologies, writing technical content, or discussing ideas with fellow developers. ✌️
 
 **A little more about me!**
 
-- 🔭 I’m currently working on a project bot called **[Destiny](https://www.google.com)**
+- 🔭 I’m currently working on a project bot called **[Reactwind](https://www.google.com)**
 - 🌱 I’m currently learning **[React](https://reactjs.org/)**
-- 👯 I’m looking to collaborate on **[Destiny Project](https://www.google.com)**
-- 🤝 I’m looking for help with **[Destiny Project](https://www.google.com)**
-- 👨‍💻 My projects are available at **[Github](https://github.com/Arpan738)**
-- 💬 Ask me about **[Python](https://www.python.org)** or ***[Movies](https://scener.com/bravestone)/[Space](https://www.space.com)***
+- 👯 I’m looking to collaborate on **[Reactwind](https://www.google.com)**
+- 🤝 I’m looking for help with **[Reactwind](https://www.google.com)**
+- 👨‍💻 My projects are available at **[Github](https://github.com/imarpanpatra)**
+- 💬 Ask me about **[React](https://reactjs.org)**
 - 📫 How to reach me: **[Discord](https://discord.com/users/435492397258899467) or [Click here](#social)**
 
 **And, now lemme share some code with you 😁**
@@ -41,21 +41,21 @@ class Arpan {
     };
     this.manages = ["Studies", "Discord_Server", "Programming"];
     this.builds = ["COOL", "INNOVATIVE", "AWESOME", "USEFUL"];
-    this.activeOn = ["DISCORD", "TWITTER", "GITHUB"];
+    this.activeOn = ["DISCORD", "X", "GITHUB"];
 
     // -- Tech stack section --
-    this.workingOn = ["DISCORD_BOT", "WEB_DEVELOPMENT", "ETHICAL_HACKING"];
+    this.workingOn = ["WEB_DEVELOPMENT", "WEB_DEVELOPMENT", "ETHICAL_HACKING"];
     this.techStack = {
       code: ["HTML", "CSS", "JavaScript", "React", "SQL"],
       codeBranches: ["AI", "Automation", "Full Stack development", "Networking"],
       frontend: {
         css: ["Tailwind", "Bootstrap"],
-        js: ["React", "NextJS", "Gatsby"]
+        js: ["React", "NextJS", "VueJS"]
       },
       backend: {
-        Javascript: ["NodeJs"]
+        Javascript: ["NodeJs", "NestJs"]
       },
-      cloud: ["GCP", "AWS", "Azure"],
+      cloud: ["AWS", "Digital Ocean", "Azure"],
       databases: {
         SQL: ["PostgreSQL", "MySQL", "SQLite"],
         NoSQL: ["MongoDB", "Firebase"]
@@ -63,13 +63,13 @@ class Arpan {
       devSecOps: ["Docker", "Version Control System", "Virtualization"],
       security: ["Ethical hacking", "Pentesting", "Cracking", "Networking"]
     };
-    this.askMeAbout = ["Javascript", "AI", "Full Stack development", "DevSecOps", "Ethical hacking"];
+    this.askMeAbout = ["Javascript", "AI", "Full Stack development", "System Architecture", "Cloud Computing"];
 
     // -- Social media section --
     this.socialMedia = {
-      email: "admin@zarena.me",
-      github: "https://github.com/Arpan738",
-      twitter: "https://twitter.com/imbravestone",
+      email: "aarpanpat@gmail.com",
+      github: "https://github.com/imarpanpatra",
+      x: "https://github.com/imarpanpatra",
       discord: "https://discord.com/users/435492397258899467"
     };
 
@@ -102,11 +102,11 @@ arpan.sayHello();
 
 ## 🚀 My Github Stats
  
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpan738&show_icons=true&hide=contribs&theme=tokyonight&include_all_commits=true&line_height=25" alt="github-stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=imarpanpatra&show_icons=true&hide=contribs&theme=tokyonight&include_all_commits=true&line_height=25" alt="github-stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arpan738&theme=algolia&fire=cyan" alt="github-contributions" />
+  <img src="https://github-streak-stats.imarpan.in?user=imarpanpatra&theme=algolia&fire=cyan" alt="github-contributions" />
   
-  <img src="https://github-profile-trophy.vercel.app?username=Arpan738" alt="github-trophies" />
+  <img src="https://github-profile-trophy.imarpan.in?username=imarpanpatra" alt="github-trophies" />
 
 
 ## ⚡ Some of my Good Stats
@@ -165,7 +165,6 @@ Note: Hover over the icon to see their names.
 
     <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" Title="ChartJS"/> </a>&nbsp;&nbsp;
     <a href="https://canvasjs.com" target="_blank"> <img src="https://canvasjs.com/wp-content/uploads/images/logo/canvasjs-logo.svg" alt="canvasjs" width="40" height="40" Title="CanvasJS"/> </a>&nbsp;&nbsp;
-    <a href="https://grafana.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40" Title="Grafana"/> </a> 
 
 - DevOps
 
@@ -173,7 +172,6 @@ Note: Hover over the icon to see their names.
     <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" Title="Docker"/> </a>&nbsp;&nbsp;
     <a href="https://cloud.google.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40" Title="Google Cloud Platform"/> </a>&nbsp;&nbsp;
     <a href="https://kubernetes.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40" Title="Kubernetes"/> </a>&nbsp;&nbsp;
-    <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40" Title="Microsoft Azure"/> </a>&nbsp;&nbsp;
 
 - Backend as a Service(BaaS)
 
@@ -197,7 +195,6 @@ Note: Hover over the icon to see their names.
     <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="photoshop" width="40" height="40" Title="Adobe Photoshop"/> </a>&nbsp;&nbsp;
     <a href="https://www.adobe.com/in/products/aftereffects/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="after-effects" width="40" height="40" Title="Adobe After Effects"/> </a>&nbsp;&nbsp;
     <a href="https://www.blender.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40" Title="Blender"/> </a>&nbsp;&nbsp;
-    <a href="https://www.mathworks.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40" Title="MATLAB"/> </a>&nbsp;&nbsp;
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" Title="Postman"/> </a> 
 
 - Operating Systems
@@ -301,7 +298,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Arpan738/Arpan738/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/imarpanpatra/imarpanpatra/main/assets/bar_graph.png)
 
 
  Last Updated on 05/07/2026 03:22:29 UTC
@@ -321,8 +318,8 @@ HTML                     1 repo              █░░░░░░░░░░�
 [<img align="left" alt="Arpan | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="Arpan | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
-[website]: https://google.com
-[twitter]: https://x.com/aarpanpat
+[website]: https://imarpan.in
+[twitter]: https://x.com/imarpanpatra
 [twitch]: https://www.twitch.tv/imbravestone
 [youtube]: https://www.youtube.com/@iam_arpanpatra
 [instagram]: https://www.instagram.com/official_arpan7
