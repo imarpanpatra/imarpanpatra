@@ -236,52 +236,6 @@ Note: Hover over the icon to see their names.
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                303 commits         ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-🌆 Daytime                447 commits         █████████░░░░░░░░░░░░░░░░   37.13 % 
-🌃 Evening                298 commits         ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-🌙 Night                  156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Tuesday                  173 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Wednesday                189 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Thursday                 186 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Friday                   219 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Saturday                 189 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Sunday                   83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               13 hrs 2 mins       ███████████████░░░░░░░░░░   60.04 % 
-Markdown                 3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Bash                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-JSON                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-
-🔥 Editors: 
-Claude Code              15 hrs 26 mins      ██████████████████░░░░░░░   71.07 % 
-VS Code                  6 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-
-🐱‍💻 Projects: 
-foresite-backend         7 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.96 % 
-foresite-admin           4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-foresite-frontend        2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-templates                1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-foresite                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-
-💻 Operating System: 
-Windows                  21 hrs 43 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -299,7 +253,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imarpanpatra/imarpanpatra/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 02:37:37 UTC
+ Last Updated on 25/07/2026 02:35:45 UTC
 <!--END_SECTION:waka-->
 
 <br />
