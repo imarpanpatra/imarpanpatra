@@ -224,7 +224,7 @@ Note: Hover over the icon to see their names.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C599%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-321%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-321%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-880.45%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -265,48 +265,48 @@ Sunday                   90 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               12 hrs 52 mins      ████████████████████░░░░░   80.59 % 
-Bash                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+JavaScript               9 hrs 30 mins       ██████████████████████░░░   87.46 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 19 mins      █████████████████████░░░░   83.48 % 
-VS Code                  2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Claude Code              9 hrs 24 mins       ██████████████████████░░░   86.63 % 
+VS Code                  1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
 
 🐱‍💻 Projects: 
-my-web                   6 hrs 47 mins       ███████████░░░░░░░░░░░░░░   42.56 % 
-prepai-backend           4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-prepai-frontend          2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-prepAI                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-my-api                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+my-web                   6 hrs 47 mins       ████████████████░░░░░░░░░   62.54 % 
+prepai-backend           1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+prepai-frontend          1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+my-api                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+my-app                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 💻 Operating System: 
-Windows                  15 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 22 mins (90.08%)
+⏱ AI Coding Time: 10 hrs 3 mins (92.6%)
 
-✍️ 41,593 lines written by AI, 23 lines written by hand (99.94% AI-written)
+✍️ 14,281 lines written by AI, 6 lines written by hand (99.96% AI-written)
 
-🔤 498,859,493 Input Tokens, 1,276,598 Output Tokens
+🔤 337,411,173 Input Tokens, 725,233 Output Tokens
 
-💵 $2525.91 Estimated AI Cost This Week
+💵 $1718.72 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 102 AI Prompts
+🧠 15 AI Sessions, 76 AI Prompts
 
-Opus                     43,008 lines        █████████████████████████   100.00 % 
+Opus                     15,612 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 2,874 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.16% of changed lines were hand-edited
+🤖 AI-Driven — 99.96% of written lines came from AI
+📄 Detailed Prompter — average 971 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -326,7 +326,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imarpanpatra/imarpanpatra/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 01:41:42 UTC
+ Last Updated on 12/08/2026 01:52:44 UTC
 <!--END_SECTION:waka-->
 
 <br />
