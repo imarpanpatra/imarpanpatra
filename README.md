@@ -224,7 +224,7 @@ Note: Hover over the icon to see their names.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C675%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-406%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-406%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.21%20million%20lines%20of%20code-blue?style=flat)
 
@@ -265,48 +265,48 @@ Sunday                   238 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   36.18 % 
-Markdown                 4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Other                    4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Bash                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-C#                       2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+JavaScript               6 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.76 % 
+Markdown                 4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+Other                    3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+C#                       2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Bash                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 35 mins      ███████████████████████░░   91.38 % 
-VS Code                  2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Claude Code              17 hrs 28 mins      ███████████████████████░░   93.17 % 
+VS Code                  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 
 🐱‍💻 Projects: 
-zarena                   10 hrs 32 mins      ███████████░░░░░░░░░░░░░░   44.65 % 
-Unity                    3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-conflux-backend          2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-puletsyia                1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-portcullis               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+zarena                   10 hrs 32 mins      ██████████████░░░░░░░░░░░   56.23 % 
+Unity                    3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+puletsyia                2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+portcullis               1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+KPMGQuiz                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-Windows                  23 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 26 mins (94.99%)
+⏱ AI Coding Time: 17 hrs 58 mins (95.86%)
 
-✍️ 32,415 lines written by AI, 5 lines written by hand (99.98% AI-written)
+✍️ 28,110 lines written by AI, 3 lines written by hand (99.99% AI-written)
 
-🔤 6,559,680 Input Tokens, 1,598,858 Output Tokens
+🔤 5,571,965 Input Tokens, 1,212,853 Output Tokens
 
-💵 $350.10 Estimated AI Cost This Week
+💵 $239.89 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 178 AI Prompts
+🧠 17 AI Sessions, 145 AI Prompts
 
-Opus                     32,466 lines        █████████████████████████   100.00 % 
+Opus                     28,154 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 902 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🤖 AI-Driven — 99.99% of written lines came from AI
+📄 Detailed Prompter — average 909 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -326,7 +326,7 @@ Elixir                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imarpanpatra/imarpanpatra/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 03:10:00 UTC
+ Last Updated on 04/09/2026 03:07:43 UTC
 <!--END_SECTION:waka-->
 
 <br />
