@@ -224,7 +224,7 @@ Note: Hover over the icon to see their names.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C727%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-459%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-459%20hrs%2042%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.23%20million%20lines%20of%20code-blue?style=flat)
 
@@ -265,47 +265,47 @@ Sunday                   246 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 16 mins       ███████████░░░░░░░░░░░░░░   43.37 % 
-Other                    3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-JavaScript               1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Markdown                 1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+TypeScript               7 hrs 16 mins       ███████████░░░░░░░░░░░░░░   43.26 % 
+Other                    3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+JavaScript               1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 22 mins      ██████████████████░░░░░░░   73.88 % 
-VS Code                  4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+Claude Code              12 hrs 19 mins      ██████████████████░░░░░░░   73.36 % 
+VS Code                  4 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
 
 🐱‍💻 Projects: 
-rolluck-backend          7 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.93 % 
-rolluck-frontend         4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-zarena                   3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-rolluck-admin            1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-rolluck                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+rolluck-backend          7 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.83 % 
+rolluck-frontend         4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+zarena                   3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+rolluck-admin            1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+rolluck                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 💻 Operating System: 
-Windows                  16 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 29 mins (74.51%)
+⏱ AI Coding Time: 12 hrs 31 mins (74.57%)
 
-✍️ 22,245 lines written by AI, 2,061 lines written by hand (91.52% AI-written)
+✍️ 22,155 lines written by AI, 2,061 lines written by hand (91.49% AI-written)
 
-🔤 3,988,097 Input Tokens, 906,350 Output Tokens
+🔤 3,559,847 Input Tokens, 890,459 Output Tokens
 
-💵 $198.01 Estimated AI Cost This Week
+💵 $193.99 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 109 AI Prompts
+🧠 14 AI Sessions, 111 AI Prompts
 
-Opus                     22,503 lines        █████████████████████████   100.00 % 
+Opus                     22,413 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.52% of written lines came from AI
-📄 Detailed Prompter — average 1,215 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 8.63% of changed lines were hand-edited
+🤖 AI-Driven — 91.49% of written lines came from AI
+📄 Detailed Prompter — average 1,197 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 8.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -325,7 +325,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imarpanpatra/imarpanpatra/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 03:22:43 UTC
+ Last Updated on 25/09/2026 03:39:48 UTC
 <!--END_SECTION:waka-->
 
 <br />
