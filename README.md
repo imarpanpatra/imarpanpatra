@@ -265,47 +265,47 @@ Sunday                   246 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   40.64 % 
-Markdown                 1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-YAML                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-TypeScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-JavaScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Other                    1 hr 38 mins        ████████░░░░░░░░░░░░░░░░░   33.17 % 
+TypeScript               47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+YAML                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+JavaScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 45 mins       ███████████████████████░░   91.95 % 
-VS Code                  30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Claude Code              4 hrs 16 mins       ██████████████████████░░░   86.43 % 
+VS Code                  40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
 
 🐱‍💻 Projects: 
-rolluck-backend          2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.81 % 
-zarena                   2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.63 % 
-rolluck                  1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-rolluck-frontend         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-rolluck-admin            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+rolluck-backend          2 hrs 46 mins       ██████████████░░░░░░░░░░░   56.30 % 
+rolluck                  1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+zarena                   48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+rolluck-frontend         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+rolluck-admin            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  6 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 54 mins (94.56%)
+⏱ AI Coding Time: 4 hrs 26 mins (89.73%)
 
-✍️ 2,294 lines written by AI, 2 lines written by hand (99.91% AI-written)
+✍️ 2,268 lines written by AI, 2 lines written by hand (99.91% AI-written)
 
-🔤 1,202,106 Input Tokens, 377,834 Output Tokens
+🔤 1,170,265 Input Tokens, 353,486 Output Tokens
 
-💵 $58.61 Estimated AI Cost This Week
+💵 $55.40 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 85 AI Prompts
+🧠 7 AI Sessions, 61 AI Prompts
 
-Opus                     2,336 lines         █████████████████████████   100.00 % 
+Opus                     2,270 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.91% of written lines came from AI
-📄 Detailed Prompter — average 883 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.3% of changed lines were hand-edited
+📄 Detailed Prompter — average 828 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.35% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -325,7 +325,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imarpanpatra/imarpanpatra/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 03:54:55 UTC
+ Last Updated on 28/09/2026 03:55:23 UTC
 <!--END_SECTION:waka-->
 
 <br />
