@@ -230,7 +230,7 @@ Note: Hover over the icon to see their names.
 
 **🐱 My GitHub Data** 
 
-> 📦 118.3 kB Used in GitHub's Storage 
+> 📦 118.4 kB Used in GitHub's Storage 
  > 
 > 🏆 322 Contributions in the Year 2026
  > 
@@ -265,30 +265,30 @@ Sunday                   246 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   36.27 % 
-TypeScript               57 mins             ███████░░░░░░░░░░░░░░░░░░   28.90 % 
-Bash                     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-JavaScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-SQL                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Other                    1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   34.34 % 
+TypeScript               57 mins             ███████░░░░░░░░░░░░░░░░░░   29.78 % 
+Bash                     32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+JavaScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+SQL                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 
 🔥 Editors: 
-Claude Code              1 hr 42 mins        █████████████░░░░░░░░░░░░   51.34 % 
-VS Code                  1 hr 36 mins        ████████████░░░░░░░░░░░░░   48.66 % 
+Claude Code              1 hr 42 mins        █████████████░░░░░░░░░░░░   52.89 % 
+VS Code                  1 hr 30 mins        ████████████░░░░░░░░░░░░░   47.11 % 
 
 🐱‍💻 Projects: 
-rolluck-backend          1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   39.00 % 
-rolluck                  1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   33.42 % 
-rolluck-frontend         54 mins             ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-rolluck-admin            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+rolluck-backend          1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   40.18 % 
+rolluck                  1 hr                ████████░░░░░░░░░░░░░░░░░   31.41 % 
+rolluck-frontend         54 mins             ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+rolluck-admin            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 52 mins (56.35%)
+⏱ AI Coding Time: 1 hr 46 mins (55.04%)
 
 ✍️ 14 lines written by AI, 98 lines written by hand (12.5% AI-written)
 
@@ -296,15 +296,15 @@ Windows                  3 hrs 18 mins       ███████████�
 
 💵 $4.97 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 39 AI Prompts
+🧠 3 AI Sessions, 36 AI Prompts
 
 Opus                     14 lines            █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 12.5% of written lines came from AI
-📄 Detailed Prompter — average 911 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📄 Detailed Prompter — average 977 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🔍 Hands-On Reviewer — 96.85% of changed lines were hand-edited
 ```
 
@@ -325,7 +325,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imarpanpatra/imarpanpatra/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 04:24:28 UTC
+ Last Updated on 02/10/2026 04:17:20 UTC
 <!--END_SECTION:waka-->
 
 <br />
