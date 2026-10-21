@@ -265,54 +265,54 @@ Sunday                   266 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs              ███████████░░░░░░░░░░░░░░   45.18 % 
-Other                    4 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-Bash                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-JavaScript               1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+TypeScript               9 hrs 1 min         █████████████░░░░░░░░░░░░   50.06 % 
+Other                    4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+Bash                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Markdown                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Python                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 59 mins      ██████████████░░░░░░░░░░░   54.11 % 
-Claude Code              8 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.75 % 
-Bot                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Agent                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+VS Code                  10 hrs 58 mins      ███████████████░░░░░░░░░░   60.95 % 
+Claude Code              5 hrs               ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+Bot                      1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Agent                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-rlk-backend              11 hrs 3 mins       ████████████░░░░░░░░░░░░░   49.89 % 
-rlk-frontend             3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Bravestone               2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Unity                    1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-my-web                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+rlk-backend              10 hrs 43 mins      ███████████████░░░░░░░░░░   59.52 % 
+Bravestone               2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+rlk-frontend             2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Unity                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+recant                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 💻 Operating System: 
-Windows                  22 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  18 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 36 mins (52.42%)
+⏱ AI Coding Time: 8 hrs 8 mins (45.21%)
 
-✍️ 11,580 lines written by AI, 6,499 lines written by hand (64.05% AI-written)
+✍️ 6,145 lines written by AI, 6,198 lines written by hand (49.79% AI-written)
 
-🔤 6,408,449 Input Tokens, 1,017,347 Output Tokens
+🔤 4,879,960 Input Tokens, 518,796 Output Tokens
 
-💵 $216.85 Estimated AI Cost This Week
+💵 $150.06 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 98 AI Prompts
+🧠 18 AI Sessions, 75 AI Prompts
 
-Opus                     9,852 lines         ████████████████████░░░░░   80.69 % 
-Github-Copilot           2,310 lines         █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Grok                     25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Composer                 23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Opus                     4,349 lines         ████████████████░░░░░░░░░   64.84 % 
+Github-Copilot           2,310 lines         █████████░░░░░░░░░░░░░░░░   34.44 % 
+Grok                     25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Composer                 23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.05% of written lines came from AI
-📄 Detailed Prompter — average 584 characters per prompt
+⚖️ Balanced with AI — 49.79% of written lines came from AI
+📝 Concise Prompter — average 474 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 69.72% of changed lines were hand-edited
+🚀 High AI Trust — 49.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -332,7 +332,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imarpanpatra/imarpanpatra/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 03:37:01 UTC
+ Last Updated on 21/10/2026 03:29:53 UTC
 <!--END_SECTION:waka-->
 
 <br />
